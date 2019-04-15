@@ -1,0 +1,1 @@
+mkdir bin img vid
