@@ -12,3 +12,9 @@ Before you do anything, add executable permissions to `setup.sh` via `chmod +x s
 * `exec.sh` - build and run program
 * `serialize.sh` - compile pictures to video
 * `gen.sh` - clear previous output, `exec.sh` then `serialize.sh`
+
+# Snapshot
+These snapshots are raw unfiltered output of the program.
+![img](snapshots/0.png)
+![img](snapshots/1.png)
+![img](snapshots/2.png)
